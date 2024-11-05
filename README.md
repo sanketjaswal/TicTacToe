@@ -6,6 +6,7 @@ A simple Tic Tac Toe game built with React, featuring a responsive grid for two 
 
 ## Features
 
+- **Score**: See the number of wins of each participant in the game.
 - **Real-Time Gameplay**: See moves updated instantly on the board.
 - **Instant Results**: See instant results for the game winner.
 - **Easy Restart**: Reset the game with a single click after each round.
@@ -16,6 +17,7 @@ A simple Tic Tac Toe game built with React, featuring a responsive grid for two 
 
 ## Usage
 
+- Enter 2 player names participatnig in the game.
 - Players take turns clicking on the grid to place their mark (X or O).
 - The game automatically detects a win or a draw.
 - Click the "Restart" button to start a new game.
