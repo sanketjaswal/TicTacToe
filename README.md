@@ -50,4 +50,4 @@ Below is a list of dependencies used in the project:
 
 # Conclusion
 
-Enjoy playing the classic Tic Tac Toe game, built with React for a seamless and interactive experience! Enjoy playing!
+Enjoy playing the classic Tic Tac Toe game, built with React for a seamless and interactive experience! Have Fun!
